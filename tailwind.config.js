@@ -26,4 +26,5 @@ module.exports = {
   variants: {
     opacity: ['responsive', 'hover'],
   },
+  plugins: [require('daisyui')],
 };
